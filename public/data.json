@@ -1,0 +1,174 @@
+[
+    {  
+         "id":"1",
+        "picture": "/src/images/Health.png",
+        "rectangle_picture":"/src/images/Rectangle 4284.png",
+        "title": "Yoga Mat",
+        "category": "Health",
+        "category_bg_color": "#FF9999",
+        "card_bg_color": "#FFE5E5",
+        "text_color": "#FF3333",
+        "button_bg_color": "#FF6666",
+        "description": "A comfortable and durable yoga mat designed to provide excellent support and cushioning for your daily exercises. Ideal for yoga, pilates, and other floor exercises, this mat offers a non-slip surface, ensuring stability and safety during your workouts. Easy to clean and carry, it's perfect for home, gym, or outdoor use.",
+        "price": "$20"
+    },
+    {
+         "id":"2",
+        "picture": "/src/images/Health.png",
+        "rectangle_picture":"/src/images/Rectangle 4284.png",
+        "title": "Dumbbells",
+        "category": "Health",
+        "category_bg_color": "#FF9999",
+        "card_bg_color": "#FFE5E5",
+        "text_color": "#FF3333",
+        "button_bg_color": "#FF6666",
+        "description": "A set of high-quality dumbbells perfect for strength training and muscle building. These ergonomic dumbbells are coated with a non-slip material, providing a comfortable grip during intense workouts. Available in various weights to suit all fitness levels, they are ideal for home gyms, fitness studios, and professional training environments.",
+        "price": "$30"
+    },
+    {
+        "id":"3",
+        "picture": "/src/images/Health.png",
+        "rectangle_picture":"/src/images/Rectangle 4284.png",
+        "title": "Running Shoes",
+        "category": "Health",
+        "category_bg_color": "#FF9999",
+        "card_bg_color": "#FFE5E5",
+        "text_color": "#FF3333",
+        "button_bg_color": "#FF6666",
+        "description": "Comfortable running shoes designed for all terrains, offering excellent support and cushioning. These shoes feature breathable materials to keep your feet cool and dry, with a durable outsole for superior traction and stability. Perfect for long runs, trail running, or everyday wear, they help enhance performance while reducing the risk of injury.",
+        "price": "$50"
+    },
+    {
+                 "id":"4",
+
+        "picture": "/src/images/Education.png",
+                        "rectangle_picture":"/src/images/Rectangle 4288.png",
+
+
+        "title": "Math Textbook",
+        "category": "Education",
+        "category_bg_color": "#99CCFF",
+        "card_bg_color": "#E5F2FF",
+        "text_color": "#3366FF",
+        "button_bg_color": "#6699FF",
+        "description": "A comprehensive math textbook covering essential topics from algebra to calculus. This well-illustrated book is designed for high school and college students, providing clear explanations, numerous examples, and practice problems. Ideal for self-study or classroom use, it helps students develop a solid understanding of mathematical concepts and improve their problem-solving skills.",
+        "price": "$40"
+    },
+    {
+                 "id":"5",
+
+        "picture": "/src/images/Education.png",
+                         "rectangle_picture":"/src/images/Rectangle 4288.png",
+
+        "title": "Science Kit",
+        "category": "Education",
+        "category_bg_color": "#99CCFF",
+        "card_bg_color": "#E5F2FF",
+        "text_color": "#3366FF",
+        "button_bg_color": "#6699FF",
+        "description": "An interactive science kit designed for kids to explore basic scientific principles through hands-on experiments. This kit includes various tools and materials needed for exciting experiments in chemistry, physics, and biology. It encourages curiosity, critical thinking, and a love for science, making learning fun and engaging for children of all ages.",
+        "price": "$25"
+    },
+    {
+                 "id":"6",
+
+        "picture": "/src/images/Education.png",
+                 "rectangle_picture":"/src/images/Rectangle 4288.png",
+
+        "title": "Online Course Subscription",
+        "category": "Education",
+        "category_bg_color": "#99CCFF",
+        "card_bg_color": "#E5F2FF",
+        "text_color": "#3366FF",
+        "button_bg_color": "#6699FF",
+        "description": "A one-year subscription to an online learning platform offering a wide range of courses. From programming to art, this platform provides high-quality video tutorials, interactive exercises, and certification upon completion. Ideal for learners of all ages, it allows you to learn at your own pace from the comfort of your home.",
+        "price": "$100"
+    },
+    {
+                 "id":"7",
+                 "rectangle_picture":"/src/images/Rectangle 4287.png",
+
+        "picture": "/src/images/Clothing.png",
+        "title": "T-Shirt",
+        "category": "Clothing",
+        "category_bg_color": "#FFCC99",
+        "card_bg_color": "#FFF2E5",
+        "text_color": "#FF9933",
+        "button_bg_color": "#FFB366",
+        "description": "A comfortable cotton t-shirt perfect for casual wear. Made from high-quality, breathable fabric, this t-shirt offers a relaxed fit, making it ideal for everyday use. Available in various colors and sizes, it features a stylish design that pairs well with jeans, shorts, or skirts. Easy to wash and maintain, it's a wardrobe essential.",
+        "price": "$15"
+    },
+    {
+                 "id":"8",
+
+        "picture": "/src/images/Clothing.png",
+        "rectangle_picture":"/src/images/Rectangle 4287.png",
+        "title": "Jeans",
+        "category": "Clothing",
+        "category_bg_color": "#FFCC99",
+        "card_bg_color": "#FFF2E5",
+        "text_color": "#FF9933",
+        "button_bg_color": "#FFB366",
+        "description": "Stylish and durable denim jeans that offer a perfect blend of comfort and fashion. These jeans feature a classic fit with a bit of stretch, making them suitable for everyday wear. Available in various washes and sizes, they are designed to provide a flattering look while being versatile enough to pair with any top.",
+        "price": "$45"
+    },
+    {
+                 "id":"9",
+
+        "picture": "/src/images/Clothing.png",
+        "rectangle_picture":"/src/images/Rectangle 4287.png",
+        "title": "Jacket",
+        "category": "Clothing",
+        "category_bg_color": "#FFCC99",
+        "card_bg_color": "#FFF2E5",
+        "text_color": "#FF9933",
+        "button_bg_color": "#FFB366",
+        "description": "A warm and comfortable winter jacket designed to keep you cozy in cold weather. This jacket features a stylish design with a water-resistant outer layer and insulated lining. Ideal for outdoor activities, it includes multiple pockets for convenience and a hood for extra protection. Available in various colors and sizes.",
+        "price": "$60"
+    },
+    {
+                 "id":"10",
+
+        "picture": "/src/images/Food.png",
+                                 "rectangle_picture":"/src/images/Rectangle 4287-2.png",
+
+        "title": "Organic Apples",
+        "category": "Food",
+        "category_bg_color": "#99FF99",
+        "card_bg_color": "#E5FFE5",
+        "text_color": "#33CC33",
+        "button_bg_color": "#66FF66",
+        "description": "Fresh and organic apples that are perfect for a healthy snack. These apples are grown without the use of synthetic pesticides or fertilizers, ensuring they are free from harmful chemicals. Juicy and delicious, they provide a good source of vitamins and fiber. Great for eating on their own, in salads, or as part of your favorite recipes.",
+        "price": "$5"
+    },
+    {
+                 "id":"11",
+
+        "picture": "/src/images/Food.png",
+                                 "rectangle_picture":"/src/images/Rectangle 4287-2.png",
+
+        "title": "Almond Milk",
+        "category": "Food",
+        "category_bg_color": "#99FF99",
+        "card_bg_color": "#E5FFE5",
+        "text_color": "#33CC33",
+        "button_bg_color": "#66FF66",
+        "description": "Healthy and nutritious almond milk, a great dairy alternative. Made from high-quality almonds, this milk is rich in vitamins and minerals, including calcium and vitamin E. It has a smooth and creamy texture, perfect for drinking on its own, in coffee, or in recipes. Suitable for vegans and those with lactose intolerance.",
+        "price": "$3"
+    },
+    {
+                 "id":"12",
+
+        "picture": "/src/images/Food.png",
+                         "rectangle_picture":"/src/images/Rectangle 4287-2.png",
+
+        "title": "Granola Bars",
+        "category": "Food",
+        "category_bg_color": "#99FF99",
+        "card_bg_color": "#E5FFE5",
+        "text_color": "#33CC33",
+        "button_bg_color": "#66FF66",
+        "description": "Delicious and energy-boosting granola bars made from wholesome ingredients. These bars are packed with oats, nuts, and dried fruits, providing a perfect balance of nutrients and flavor. Ideal for a quick breakfast or a healthy snack on the go, they are also great for fueling your body before or after a workout.",
+        "price": "$10"
+    }
+]
